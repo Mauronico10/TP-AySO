@@ -1,0 +1,169 @@
+pwd
+cd
+cd /tmp
+cd
+cd ~
+ssh-keygen
+ssh-key
+sshkey
+sshkeygen
+ssh-keygen 
+ll
+cd repogit/
+ll
+cd TP-AySO/
+LL
+ll
+cat /etc/os-release
+cd ..
+rm -r TP-AySO/
+cd repogit/
+ll
+cd TP-AySO/
+ll
+git@github.com:Mauronico10/TP-AySO.git
+git clone git@github.com:Mauronico10/TP-AySO.gi
+cd..
+cd ..
+rm -rf TP-AySO/
+git clone git@github.com:Mauronico10/TP-AySO.git
+ll
+cd TP-AySO/
+cat /etc/os-release 
+man grep
+grep -i https://www.ubuntu.com/ /etc/os-release 
+ls -l
+whoami
+echo “Usuario=$(whoami)” > datos_usuario.txt
+ll
+cat datos_usuario.txt 
+git add .
+git config --global user.email "TU-email"
+git show
+git commit -m "ADD: agregado 1er ejercicio
+sobre datos_usuarios.txt"
+git status
+cat /proc/cpuinfo
+grep "model name" /proc/cpuinfo >> repogit/TP_AySO/datos_usuario.txt
+grep "model name" /proc/cpuinfo >> datos_usuario.txt
+cat datos_usuario.txt 
+cat head -n datos_usuario.txt 
+cat datos_usuario.txt head -n
+head -n cat datos_usuario.txt 
+cat datos_usuario.txt head -n
+cat datos_usuario.txt head -n1
+head -n1 cat datos_usuario.txt 
+cat head -n1 datos_usuario.txt 
+cat tail -n1 datos_usuario.txt 
+cat datos_usuario.txt tail -n1 
+tail -n1 cat datos_usuario.txt
+grep tail -n1 datos_usuario.txt 
+grep tail datos_usuario.txt 
+grep head datos_usuario.txt 
+grep head -n1 datos_usuario.txt 
+cat tail -n1 datos_usuario.txt 
+tail -n1 cat datos_usuario.txt
+cat datos_usuario.txt 
+grep "model name" /proc/cpuinfo >> repogit/TP_AySO/datos_usuario.txt
+grep "model name" /proc/cpuinfo >> datos_usuario.txt
+grep "model name" /proc/cpuinfo >>datos_usuario.txt
+grep "model name" /proc/cpuinfo >> datos_usuario.txt
+grep "model name" /proc/cpuinfo | head -n1  >> datos_usuario.tx
+grep "model name" /proc/cpuinfo | head -n1  > datos_usuario.tx
+grep "model name" /proc/cpuinfo | head -n 1  > datos_usuario.tx
+cat datos_usuario.tx
+rm -rf datos_usuario.tx
+echo “Usuario=$(whoami)” > datos_usuario.txt
+ls -la
+grep "model name" /proc/cpuinfo | head -n 1 >> datos_usuario.tx
+ls -la
+cat datos_usuario.tx
+rm -rf datos_usuario.tx
+echo “Usuario=$(whoami)” > datos_usuario.txt
+ls -l
+cat datos_usuario.txt 
+grep "model name" /proc/cpuinfo | head -n 1 >> datos_usuario.tx
+grep "model name" /proc/cpuinfo | head -n 1 >> datos_usuario.txt
+cat datos_usuario.tx
+rm -rf datos_usuario.tx
+cat datos_usuario.txt 
+git push
+git status
+git add datos_usuario.txt 
+git push
+git status
+git push
+git status
+cat datos_usuario.txt 
+git status
+git commit -m "ADD: Datos del procesador añadidos a datos_usuarios.txt"
+git show
+git push
+git status
+: touch "lista_ordenada.txt"
+ll
+cat lista_ordenada.txt 
+man grep
+grep -v "nologin" /etc/passwd | head -n 10 >> lista_ordenada.txt~
+cat lista_ordenada.txt
+grep -v "nologin" /etc/passwd | head -n 10 >> lista_ordenada.txt
+cat lista_ordenada.txt
+grep -v "nologin" /etc/passwd | head -n 15 >> lista_ordenada.txt
+cat lista_ordenada.txt
+grep -v "nologin" /etc/passwd | head -n 10 >> lista_ordenada.txt
+cat lista_ordenada.txt
+grep -v "nologin" /etc/passwd | head -n 10 >> lista_ordenada.txt
+cat lista_ordenada.txt
+rm -rf lista_ordenada.txt
+touch lista_ordenada.txt
+cat lista_ordenada.txt
+ll
+rm -rf lista_ordenada.txt~
+ll
+grep -v "nologin" /etc/passwd | head -n 10 >> lista_ordenada.txt
+cat lista_ordenada.txt 
+grep -v "nologin" /etc/passwd | head -n 10 | sort -k 7 > lista_ordenada.txt
+cat lista_ordenada.txt 
+hostnamectl set-hostname pc-pepe
+cd repogit/
+cd TP-AySO/
+ll
+cat lista_ordenada.txt 
+man -k network
+man -k networks
+cd ..
+cd..
+cd ..
+man -k network
+man -k networks
+cd repogit/
+cd TP-AySO/
+ll
+touch comando_dump_net
+ll
+rm -rf comando_dump_net 
+touch comando_dump_txt
+ll
+echo " Utilize man -k network, como resultado me dio tcpdump." > comando_dump_txt 
+cat comando_dump_txt 
+git add comando_dump_txt 
+git commit -m "ADD: comando_para_capturar_y_analizar_el_trafico_de_la_red"
+git push
+git status
+git add lista_ordenada.txt 
+git commit -m "ADD: lista_ordenada" 
+git push
+git status
+ls -la
+echo "alumno: Mauro Camino" > README.md 
+echo "division: 318" >> README.md 
+echo "turno: noche" >> README.md 
+cat README.md 
+git add README.md 
+git commit -m "ADD: mis datos" 
+git push
+git status
+history
+cd ..
+ls -la
+history -a
